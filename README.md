@@ -4,7 +4,7 @@ This project is a visual representation of sorting algorithms, specifically Bubb
 
 ## Demo
 
-![Sorting Visualization]([assets/demo.gif](https://github.com/AreebEhsan/Algorithm-Visualizer/blob/main/Algorithm-Visualizer-Demo.gif))
+![Sorting Visualization](https://github.com/AreebEhsan/Algorithm-Visualizer/blob/main/Algorithm-Visualizer-Demo.gif))
 
 This GIF shows the Bubble Sort algorithm in action, with elements being color-coded to indicate their sorted (green) and unsorted (blue) status.
 
